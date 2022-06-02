@@ -12,7 +12,7 @@
         
     </head>
     <body>
-        <h1>A simple web application of calculator</h1>
+        <h1>A simple web application of calculator!</h1>
         <form action="add.jsp" method="POST">
         <table cellpadding ="10" cellspacing="10">
             <tr>
